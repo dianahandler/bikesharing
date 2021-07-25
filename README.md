@@ -1,5 +1,5 @@
 # Overview
-The purpose of thie challenge was to create various data visualizations using Tableau. This was done by creating worksheets that displayed various types of information with our data source that we initially cleaned up with pandas through Juypter notebook. 
+The purpose of this challenge was to create various data visualizations using Tableau. This was done by creating worksheets that displayed various types of information with our data source that we initially cleaned up with pandas through Juypter notebook. 
 
 [link to dashboard](https://public.tableau.com/app/profile/diana.handler/viz/NYCCitibikeStoryDVH/NYCCitibikeStory?publish=yes)
 
